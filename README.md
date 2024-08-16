@@ -1,8 +1,8 @@
-## Olá! Eu sou a Helena 🩷
+## Hello! I’m Helena 🩷
 
-- 🎯 Meu objetivo é me tornar uma Desenvolvedora de Software Full Stack.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, no momento estou estudando front-end.
-- 🎮 Gosto muito jogos, principalmente de FPS.
+- 🎯 My goal is to become a Full Stack Software Developer.
+- 🌱  I’m a Systems Analysis and Development student, currently studying front-end development.
+- 🎮 I really enjoy games, especially FPS.
 ##
 
 <div>
@@ -11,7 +11,7 @@
  
 </div>
 
-## Tecnologias que atualmente estou estudando:
+## Technologies I'm currently studying:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
