@@ -21,12 +21,13 @@
   
 </div>
 
-##
-
-<div>
-  <a href = "mailto:contatorahelenacorreia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/helena-gomes-3b258519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ## Contacts
   
+  <div align="center"> 
+   <a href="mailto:contatorahelenacorreia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+   <a href="[https://www.linkedin.com/in/helena-gomes-3b258519b/]" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+  &nbsp;&nbsp;
 </div>
 
 ##
