@@ -1,8 +1,11 @@
 ## Hello! I’m Helena 🩷
 
-- 🎯 My goal is to become a Full Stack Software Developer.
-- 🌱  I’m a Systems Analysis and Development student, currently studying front-end development.
-- 🎮 I really enjoy games, especially FPS.
+🎓 Student of Systems Analysis and Development  .
+🌐 Focused on web, mobile, and data development, also exploring back-end.
+🔧 Building projects to improve my skills.    
+
+📚 I love reading, ☕ enjoy coffee, and 🐱 am passionate about cats.  
+🤝 Looking for study partners to grow together!
 ##
 
 ## Technologies I'm currently studying:
