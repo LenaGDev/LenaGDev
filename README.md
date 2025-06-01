@@ -1,10 +1,17 @@
 ## Hello! I’m Helena 🩷
 
-🎓 Student of Systems Analysis and Development  .
+🎓 Student of Systems Analysis and Development.
+
+
 🌐 Focused on web, mobile, and data development, also exploring back-end.
-🔧 Building projects to improve my skills.    
+
+
+🔧 Building projects to improve my skills. 
+
 
 📚 I love reading, ☕ enjoy coffee, and 🐱 am passionate about cats.  
+
+
 🤝 Looking for study partners to grow together!
 ##
 
